@@ -1,0 +1,8 @@
+Wyatt Dunn
+Web Systems Design
+Android Mobile App Final Project
+
+This video is a demonstration of the Android Application I created as a final project for this course.  The app utilizes a Yelp API to allow the user to search for business near their location or a location of their choosing among other things. 
+I cannot make the code for this project public on Github by request of the Professor for this course but can send privately by request if deemed necessary.
+
+ 
